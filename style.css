@@ -1,0 +1,12 @@
+body{
+    background-color:hsl(185, 75%, 39%) ;
+}
+.card{
+    background-color: white;
+    height: 50vh;
+    width: 25vw;
+    position: relative;
+    left:38vw ;
+    border-radius:25px ;
+
+}
